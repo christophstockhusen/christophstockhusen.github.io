@@ -4,27 +4,48 @@ _Head of Data Platform @ Otto Group data.works GmbH_
 
 [Email](mailto:mail@christophstockhusen.de) / [Website](https://christophstockhusen.github.io) / [LinkedIn](https://www.linkedin.com/in/dr-christoph-stockhusen/)
 
-## 👩🏼‍💻 Engineering Experience
+<br> 
 
-**Head of Data Platform** @ Otto Group data.works GmbH _(June 2021 - Present)_ <br>
+## 👨‍💻 Engineering Experience
+
+**Head of Data Platform** @ Otto Group data.works GmbH <br>
+_(June 2021 - Present)_
 <br>
-**Senior Data Architect** @ Otto Group data.works GmbH _(March 2019 - May 2021)_ <br>
+
+**Senior Data Architect** @ Otto Group data.works GmbH <br>
+_(March 2019 - May 2021)_ 
 <br>
-**Data Architect** @ Otto (GmbH & Co KG) _(June 2016 - Feb 2019)_ <br>
+
+**Data Architect** @ Otto (GmbH & Co KG) <br>
+_(June 2016 - Feb 2019)_
+
 <br>
 
 ## 📌 On The Side
 
-**Lecturer** @ Hamburg University of Applied Sciences _(March 2013 - May 2016)_ <br>
-Lectures _Theoretical Computer Science_ and _Logic and Computability_
+**Maintainer** > [BigQuery Extension for Visual Studio Code](https://github.com/christophstockhusen/vsc-bigquery)
+
+**Maintainer** > [LaTeX Class for typesetting exercise sheets](https://github.com/christophstockhusen/exercisesheet)
+
+**Lecturer** @ Hamburg University of Applied Sciences <br>
+_(March 2013 - May 2016)_ <br>
+_Theoretical Computer Science_ and _Logic and Computability_
 
 <br>
 
-## 🏆 Accomplishments
+## 🛠 Tools of Trade
+
+**Google Cloud Platform** BigQuery, AppEngine, Cloud Dataflow, Datastore, Google Kubernetes Engine, IAP, Cloud Storage
+
+**Languages** Bash, Java, Scala, Python, SQL, terraform
+
+**Tools** git, Emacs ♥, Linux
+
+<br>
 
 ## 💬 Languages
 
-**German**: Native <br>
+**German**: native <br>
 **English**: C1.2
 
 <br>
