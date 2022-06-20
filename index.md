@@ -2,7 +2,7 @@
 
 _Head of Data Platform @ Otto Group data.works GmbH_
 
-[Email](mailto:mail@christophstockhusen.de) / [Website](https://christophstockhusen.github.io) / [LinkedIn](https://www.linkedin.com/in/dr-christoph-stockhusen/)
+[Email](mailto:mail@christophstockhusen.de) / [LinkedIn](https://www.linkedin.com/in/dr-christoph-stockhusen/)
 
 <br> 
 
@@ -17,7 +17,7 @@ _(March 2019 - May 2021)_
 <br>
 
 **Data Architect** @ Otto (GmbH & Co KG) <br>
-_(June 2016 - Feb 2019)_
+_(June 2016 - February 2019)_
 
 <br>
 
@@ -53,6 +53,6 @@ _Theoretical Computer Science_ and _Logic and Computability_
 ## 👨‍🎓 Education
 
 **Phd. in Computer Science** @ Universität zu Lübeck _(2011-2017)_ <br>
-Thesis: _On the Space and Circuit Complexity of Parameterizes Problems_
+Thesis: _On the Space and Circuit Complexity of Parameterized Problems_
 
 **Diploma in Computer Science** @ Universität zu Lübeck _(2005-2011)_ <br>
