@@ -50,10 +50,9 @@ _Theoretical Computer Science_ and _Logic and Computability_
 
 <br>
 
-## 👩🏼‍🎓 Education
+## 👨‍🎓 Education
 
 **Phd. in Computer Science** @ Universität zu Lübeck _(2011-2017)_ <br>
 Thesis: _On the Space and Circuit Complexity of Parameterizes Problems_
-<br><br>
 
 **Diploma in Computer Science** @ Universität zu Lübeck _(2005-2011)_ <br>
