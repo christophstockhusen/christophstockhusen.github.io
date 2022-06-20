@@ -37,7 +37,7 @@ _Theoretical Computer Science_ and _Logic and Computability_
 
 **Google Cloud Platform** BigQuery, AppEngine, Cloud Dataflow, Datastore, Google Kubernetes Engine, IAP, Cloud Storage
 
-**Languages** Bash, Java, Scala, Python, SQL, terraform
+**Languages** Bash, Java, Scala, Python, SQL, terraform, Clojure, Typescript
 
 **Tools** git, Emacs ♥, Linux
 
