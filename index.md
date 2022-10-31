@@ -29,7 +29,7 @@ _Theoretical Computer Science_ and _Logic and Computability_
 
 **Google Cloud Platform** BigQuery, AppEngine, Cloud Dataflow, Datastore, Google Kubernetes Engine, IAP, Cloud Storage
 
-**Languages** Bash, Java, Scala, Python, SQL, terraform, Clojure, Typescript
+**Languages** Bash, SQL, Clojure, Java, Scala, Python, terraform, Typescript
 
 **Tools** git, Emacs ♥, Linux
 
@@ -47,4 +47,10 @@ _Theoretical Computer Science_ and _Logic and Computability_
 **Dr.rer.nat. in Computer Science** @ Universität zu Lübeck _(2011-2017)_ <br>
 Thesis: _On the Space and Circuit Complexity of Parameterized Problems_
 
-**Diploma in Computer Science** @ Universität zu Lübeck _(2005-2011)_ <br>
+**Diploma in Computer Science** @ Universität zu Lübeck _(2005-2011)_ 
+
+<br>
+
+## 📧 Contact 
+
+[Email](mailto:mail@christophstockhusen.de) / [LinkedIn](https://www.linkedin.com/in/dr-christoph-stockhusen/)
