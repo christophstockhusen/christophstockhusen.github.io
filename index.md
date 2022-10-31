@@ -1,14 +1,6 @@
-## Dr. Christoph Stockhusen
-
-_Head of Data Platform @ Otto Group data.works GmbH_
-
-[Email](mailto:mail@christophstockhusen.de) / [LinkedIn](https://www.linkedin.com/in/dr-christoph-stockhusen/)
-
-<br> 
-
 ## 👨‍💻 Engineering Experience
 
-**Head of Data Platform** @ Otto Group data.works GmbH <br>
+**Head of Data Platform / Engineering Manager** @ Otto Group data.works GmbH <br>
 _(June 2021 - Present)_
 <br>
 
