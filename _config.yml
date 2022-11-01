@@ -6,8 +6,8 @@ remote_theme: BDHU/minimalist
 title: Dr. Christoph Stockhusen
 # description: 
 logo: /assets/portrait.jpg
-color-scheme: dark
-email: mail@christophstockhusen.de
+color-scheme: light
+email: mail at [firstname][lastname] dot de
 
 sidebar:
   - name: GitHub
