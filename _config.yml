@@ -13,6 +13,12 @@ sidebar:
   - name: GitHub
     icon: <i class="fa-brands fa-github"></i>
     link: https://github.com/christophstockhusen
+  - name: LinkedIn
+    icon: <i class="fa-brands fa-linkedin"></i>
+    link: https://www.linkedin.com/in/dr-christoph-stockhusen/
+  - name: XING
+    icon: <i class="fa-brands fa-xing"></i>
+    link: https://www.xing.com/profile/Christoph_Stockhusen
   - name: Google Scholar
     icon: <i class="fa-solid fa-graduation-cap"></i>
     link: https://scholar.google.com/citations?user=tZo-DMsAAAAJ
