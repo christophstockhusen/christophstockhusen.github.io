@@ -11,6 +11,8 @@ _(March 2019 - May 2021)_
 **Data Architect** @ Otto (GmbH & Co KG) <br>
 _(June 2016 - February 2019)_
 
+(for more details, see below)
+
 * * *
 
 ## 📌 On The Side
@@ -21,7 +23,8 @@ _(June 2016 - February 2019)_
 
 **Lecturer** @ Hamburg University of Applied Sciences <br>
 _(March 2013 - May 2016)_ <br>
-_Theoretical Computer Science_ and _Logic and Computability_
+- Lecture and Laboratories: _Theoretical Computer Science_
+- Lecture and Laboratories:  _Logic and Computability_
 
 * * *
 
@@ -59,3 +62,23 @@ Award for best intermediate diploma
 ## 📧 Contact 
 
 [Email](mailto:mail@christophstockhusen.de) / [LinkedIn](https://www.linkedin.com/in/dr-christoph-stockhusen/)
+
+* * * 
+
+## More detailed list of things/projects/products I did/worked on in my professional career
+
+### Head of Data Platform / Engineering Manager
+- Leading an awesome team of 14 (Senior) Data Engineers, (Senior) Cloud Engineers, Business Intelligence Engineers working on Otto Groups Retail Data Platform 
+
+### Senior Data Architect
+- Building, running, and maintaining ETL/ML pipelines predicting order amounts for workforce planning in warehouses
+- Building, running, and maintaining a data science platform used to predict package returns in warehouses
+- Product owner of group-wide data pool of customer data, transaction data, product data, web-tracking data
+- Product owner of group web tracking solution
+- Development of real-time data ingestion pipelines for web-tracking data
+- _terraform_, _Google Cloud Platform (BigQuery & BigQueryML, Google Kubernetes Engine, Stackdriver, Cloud Storage, Cloud Pub/Sub)_, _bash_, _Argo_, _Python & Jupyter Notebooks_, _Office 365_, _JIRA_, _Confluence_, _Miro_
+
+### Data Architect
+- Building, running, and maintaining of pipelines for computation of profile features for retail media services
+- Building, running, and maintaining of a GDPR-compliant analytics system for customer segmentation and selection used for print marketing
+- _Scala_, _terraform_, _Google Cloud Platform (BigQuery, App Engine, Datastore, Cloud Functions, IAP, Google Kubernetes Engine, Stackdriver, Cloud Storage)_, _bash_, _Argo_, _Hive_, _Office 365_, _JIRA_, _Confluence_, _Miro_
