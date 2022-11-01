@@ -2,8 +2,17 @@ plugins:
 - jekyll-remote-theme
 remote_theme: BDHU/minimalist
 # remote_theme: pages-themes/minimal@v0.2.0
-# theme: jekyll-theme-minimal
 # title: 👪🎲👨‍💻 
 title: Dr. Christoph Stockhusen
 # description: 
 logo: /assets/portrait.jpg
+color-scheme: dark
+email: mail@christophstockhusen.de
+
+sidebar:
+  - name: GitHub
+    icon: <i class="fa-brands fa-github"></i>
+    link: https://github.com/christophstockhusen
+  - name: Google Scholar
+    icon: <i class="fa-solid fa-graduation-cap"></i>
+    link: https://scholar.google.com/citations?user=tZo-DMsAAAAJ
