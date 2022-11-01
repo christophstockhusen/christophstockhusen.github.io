@@ -47,7 +47,12 @@ _Theoretical Computer Science_ and _Logic and Computability_
 **Dr.rer.nat. in Computer Science** @ Universität zu Lübeck _(2011-2017)_ <br>
 Thesis: _On the Space and Circuit Complexity of Parameterized Problems_
 
+**[University Didactic Certificate (Level 3 / Professional)](https://www.uni-luebeck.de/universitaet/personalangelegenheiten/interne-weiterbildung/zertifikate/hd-zertifikate.html)** @ Universität zu Lübeck _(2016)_
+
 **Diploma in Computer Science** @ Universität zu Lübeck _(2005-2011)_ 
+
+**Philips Best Bachelor Award** @ Universität zu Lübeck _(2013)_ <br>
+Award for best intermediate diploma
 
 <br>
 
