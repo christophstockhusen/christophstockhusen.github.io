@@ -65,7 +65,7 @@ Award for best intermediate diploma
 
 * * * 
 
-## More detailed list of things/projects/products I did/worked on in my professional career
+## 🔍 More detailed list of things/projects/products I did/worked on in my professional career
 
 ### Head of Data Platform / Engineering Manager
 - Leading an awesome team of 14 (Senior) Data Engineers, (Senior) Cloud Engineers, Business Intelligence Engineers working on Otto Groups Retail Data Platform 
