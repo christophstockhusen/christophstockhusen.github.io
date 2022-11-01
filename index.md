@@ -1,47 +1,58 @@
 ## 👨‍💻 Engineering Experience
 
-- **Head of Data Platform / Engineering Manager** @ Otto Group data.works GmbH <br>
-  _(June 2021 - Present)_
-- **Senior Data Architect** @ Otto Group data.works GmbH <br>
-  _(March 2019 - May 2021)_ 
-- **Data Architect** @ Otto (GmbH & Co KG) <br>
-  _(June 2016 - February 2019)_
+**Head of Data Platform / Engineering Manager** @ Otto Group data.works GmbH <br>
+_(June 2021 - Present)_
+<br>
+
+**Senior Data Architect** @ Otto Group data.works GmbH <br>
+_(March 2019 - May 2021)_ 
+<br>
+
+**Data Architect** @ Otto (GmbH & Co KG) <br>
+_(June 2016 - February 2019)_
 
 * * *
 
 ## 📌 On The Side
 
-- **Maintainer** > [BigQuery Extension for Visual Studio Code](https://github.com/christophstockhusen/vsc-bigquery)
-- **Maintainer** > [LaTeX Class for typesetting exercise sheets](https://github.com/christophstockhusen/exercisesheet)
-- **Lecturer** @ Hamburg University of Applied Sciences <br>
-  _(March 2013 - May 2016)_ <br>
-  _Theoretical Computer Science_ and _Logic and Computability_
+**Maintainer** > [BigQuery Extension for Visual Studio Code](https://github.com/christophstockhusen/vsc-bigquery)
+
+**Maintainer** > [LaTeX Class for typesetting exercise sheets](https://github.com/christophstockhusen/exercisesheet)
+
+**Lecturer** @ Hamburg University of Applied Sciences <br>
+_(March 2013 - May 2016)_ <br>
+_Theoretical Computer Science_ and _Logic and Computability_
 
 * * *
 
 ## 🛠 Tools of Trade
 
-- **Google Cloud Platform** BigQuery, AppEngine, Cloud Dataflow, Datastore, Google Kubernetes Engine, IAP, Cloud Storage
-- **Languages** Bash, SQL, Clojure, Java, Scala, Python, terraform, Typescript
-- **Tools** git, Emacs ♥, Linux
+**Google Cloud Platform** BigQuery, AppEngine, Cloud Dataflow, Datastore, Google Kubernetes Engine, IAP, Cloud Storage
+
+**Languages** Bash, SQL, Clojure, Java, Scala, Python, terraform, Typescript
+
+**Tools** git, Emacs ♥, Linux
 
 * * *
 
 ## 💬 Languages
 
-- **German**: native <br>
-- **English**: C1.2
+**German**: native <br>
+**English**: C1.2
 
 * * *
 
 ## 👨‍🎓 Education
 
-- **Dr.rer.nat. in Computer Science** @ Universität zu Lübeck _(2011-2017)_ <br>
-  Thesis: _On the Space and Circuit Complexity of Parameterized Problems_
-- **[University Didactic Certificate (Level 3 / Professional)](https://www.uni-luebeck.de/universitaet/personalangelegenheiten/interne-weiterbildung/zertifikate/hd-zertifikate.html)** @ Universität zu Lübeck _(2015)_
-- **Diploma in Computer Science** @ Universität zu Lübeck _(2005-2011)_ 
-- **Philips Best Bachelor Award** @ Universität zu Lübeck _(2013)_ <br>
-  Award for best intermediate diploma
+**Dr.rer.nat. in Computer Science** @ Universität zu Lübeck _(2011-2017)_ <br>
+Thesis: _On the Space and Circuit Complexity of Parameterized Problems_
+
+**[University Didactic Certificate (Level 3 / Professional)](https://www.uni-luebeck.de/universitaet/personalangelegenheiten/interne-weiterbildung/zertifikate/hd-zertifikate.html)** @ Universität zu Lübeck _(2015)_
+
+**Diploma in Computer Science** @ Universität zu Lübeck _(2005-2011)_ 
+
+**Philips Best Bachelor Award** @ Universität zu Lübeck _(2013)_ <br>
+Award for best intermediate diploma
 
 * * *
 
