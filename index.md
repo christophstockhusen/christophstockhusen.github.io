@@ -11,8 +11,6 @@ _(March 2019 - May 2021)_
 **Data Architect** @ Otto (GmbH & Co KG) <br>
 _(June 2016 - February 2019)_
 
-<br>
-
 ## 📌 On The Side
 
 **Maintainer** > [BigQuery Extension for Visual Studio Code](https://github.com/christophstockhusen/vsc-bigquery)
@@ -47,7 +45,7 @@ _Theoretical Computer Science_ and _Logic and Computability_
 **Dr.rer.nat. in Computer Science** @ Universität zu Lübeck _(2011-2017)_ <br>
 Thesis: _On the Space and Circuit Complexity of Parameterized Problems_
 
-**[University Didactic Certificate (Level 3 / Professional)](https://www.uni-luebeck.de/universitaet/personalangelegenheiten/interne-weiterbildung/zertifikate/hd-zertifikate.html)** @ Universität zu Lübeck _(2016)_
+**[University Didactic Certificate (Level 3 / Professional)](https://www.uni-luebeck.de/universitaet/personalangelegenheiten/interne-weiterbildung/zertifikate/hd-zertifikate.html)** @ Universität zu Lübeck _(2015)_
 
 **Diploma in Computer Science** @ Universität zu Lübeck _(2005-2011)_ 
 
