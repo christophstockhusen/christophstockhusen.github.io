@@ -11,6 +11,8 @@ _(March 2019 - May 2021)_
 **Data Architect** @ Otto (GmbH & Co KG) <br>
 _(June 2016 - February 2019)_
 
+* * *
+
 ## 📌 On The Side
 
 **Maintainer** > [BigQuery Extension for Visual Studio Code](https://github.com/christophstockhusen/vsc-bigquery)
@@ -21,7 +23,7 @@ _(June 2016 - February 2019)_
 _(March 2013 - May 2016)_ <br>
 _Theoretical Computer Science_ and _Logic and Computability_
 
-<br>
+* * *
 
 ## 🛠 Tools of Trade
 
@@ -31,14 +33,14 @@ _Theoretical Computer Science_ and _Logic and Computability_
 
 **Tools** git, Emacs ♥, Linux
 
-<br>
+* * *
 
 ## 💬 Languages
 
 **German**: native <br>
 **English**: C1.2
 
-<br>
+* * *
 
 ## 👨‍🎓 Education
 
@@ -52,7 +54,7 @@ Thesis: _On the Space and Circuit Complexity of Parameterized Problems_
 **Philips Best Bachelor Award** @ Universität zu Lübeck _(2013)_ <br>
 Award for best intermediate diploma
 
-<br>
+* * *
 
 ## 📧 Contact 
 
