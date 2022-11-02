@@ -21,10 +21,10 @@ _(June 2016 - February 2019)_
 
 **Maintainer** > [LaTeX Class for typesetting exercise sheets](https://github.com/christophstockhusen/exercisesheet)
 
-**Lecturer** @ Hamburg University of Applied Sciences <br>
+**Lecturer** @ [Hamburg University of Applied Sciences](https://www.haw-hamburg.de/) <br>
 _(March 2013 - May 2016)_ <br>
-- Lecture and Laboratories: _Theoretical Computer Science_
-- Lecture and Laboratories:  _Logic and Computability_
+- Lectures and Labs: _Theoretical Computer Science_
+- Lectures and Labs:  _Logic and Computability_
 
 * * *
 
@@ -38,13 +38,6 @@ _(March 2013 - May 2016)_ <br>
 
 * * *
 
-## 💬 Languages
-
-**German**: native <br>
-**English**: C1.2
-
-* * *
-
 ## 👨‍🎓 Education
 
 **Dr.rer.nat. in Computer Science** @ Universität zu Lübeck _(2011-2017)_ <br>
@@ -52,10 +45,18 @@ Thesis: _On the Space and Circuit Complexity of Parameterized Problems_
 
 **[University Didactic Certificate (Level 3 / Professional)](https://www.uni-luebeck.de/universitaet/personalangelegenheiten/interne-weiterbildung/zertifikate/hd-zertifikate.html)** @ Universität zu Lübeck _(2015)_
 
-**Diploma in Computer Science** @ Universität zu Lübeck _(2005-2011)_ 
+**Diploma in Computer Science** @ Universität zu Lübeck _(2005-2011)_ <br>
+Thesis: _Anwendungen monadischer Logik zweiter Stufe auf Probleme beschränkter Baumweite und deren Platzkomplexität_
 
 **Philips Best Bachelor Award** @ Universität zu Lübeck _(2013)_ <br>
 Award for best intermediate diploma
+
+* * *
+
+## 💬 Languages
+
+**German**: native <br>
+**English**: C1.2
 
 * * *
 
