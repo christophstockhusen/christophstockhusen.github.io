@@ -34,7 +34,7 @@ _(March 2013 - May 2016)_ <br>
 
 **Languages** Bash, SQL, Clojure, Java, Scala, Python, terraform, Typescript
 
-**Tools** git, Emacs ♥, Linux
+**Tools** Visual Studio Code, Emacs ♥, git, Linux
 
 * * *
 
