@@ -1,7 +1,11 @@
 ## 👨‍💻 Engineering Experience
 
+**Project Lead Data Engineering** @ DB Regio AG <br>
+_(August 2023 - Present)_
+<br>
+
 **Head of Data Platform / Engineering Manager** @ Otto Group data.works GmbH <br>
-_(June 2021 - Present)_
+_(June 2021 - July 2023)_
 <br>
 
 **Senior Data Architect** @ Otto Group data.works GmbH <br>
@@ -67,6 +71,9 @@ Award for best intermediate diploma
 * * * 
 
 ## 🔍 More detailed list of things/projects/products I did/worked on in my professional career
+
+### Project Lead Data Engineering
+- Creating data applications for an improved customer experience and enterprise performance management 
 
 ### Head of Data Platform / Engineering Manager
 - Leading an awesome team of 14 (Senior) Data Engineers, (Senior) Cloud Engineers, Business Intelligence Engineers working on Otto Groups Retail Data Platform 
